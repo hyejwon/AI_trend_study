@@ -1,7 +1,6 @@
-# AI_trend_study
- 🗒 studying 🗒  
+# 🗒 AI_trend_study
 
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+- 목적 : AI 관심 분야 및 최신 trend 파악 
 
 
 
